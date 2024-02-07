@@ -21,7 +21,6 @@ We provide MATLAB implementations for each of the above algorithms. Each impleme
 
 We test the implemented algorithms for noise reduction in various scenarios, including:
 - White noise reduction
-- Colored noise reduction
 - Speech signal enhancement
 
 ## Experimental Setup
